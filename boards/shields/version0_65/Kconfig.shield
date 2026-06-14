@@ -1,0 +1,2 @@
+config SHIELD_VERSION0_65
+    def_bool $(shields_list_contains,version0_65)

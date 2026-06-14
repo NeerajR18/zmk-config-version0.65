@@ -1,0 +1,6 @@
+if SHIELD_VERSION0_65
+
+config ZMK_KEYBOARD_NAME
+    default "version0.65"
+
+endif # SHIELD_VERSION0_65
